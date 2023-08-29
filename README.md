@@ -1,5 +1,6 @@
+# Title-Series-Analysis
 # Project Title:
-Analysis and Prediction of Microsoft_Stock.csv which contains stocks and credits of IT form prediction the value of stocks in future by three category.("open","high","low").
+Analysis and Prediction of Microsoft_Stock.csv which contains stocks and credits of IT form prediction the value of stocks in future by three category.("Open","High","Low").
 
 # Problem Statement:
 This dataset provides a detailed analysis of Microsoft's stock performance from 1986 to 2023, including stock price, low and high prices, and trading volume. It showcases the company's journey in the stock market, revealing trends and fluctuations over time. The data covers key milestones and offers insights into market valuation. It also includes trading volume data to gauge investor activity. Researchers, investors, and analysts can use this dataset to study long-term trends, historical patterns, and technology industry dynamics. However, it's crucial to supplement this information with other financial data for informed decision-making. The dataset is current until 2023, offering up-to-date insights into Microsoft's stock performance.
